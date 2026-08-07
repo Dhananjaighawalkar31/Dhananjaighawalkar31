@@ -15,7 +15,7 @@
 - 💻 Comfortable across the stack: **Java / Spring Boot** on the backend, **Vue.js / Tailwind CSS** on the frontend.
 - 📚 Practicing **Data Structures & Algorithms** consistently — see [Java-DSA](https://github.com/Dhananjaighawalkar31/Java-DSA).
 - ⚡ Outside of code: cricket, table tennis, fitness, and music.
-- 📫 Reach me at **[your email here]** or **[your LinkedIn here]**.
+- 📫 Reach me at **dhananjaighawalkar68@gmail.com** or **www.linkedin.com/in/dhananjai-ghawalkar**.
 
 ---
 
