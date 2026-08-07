@@ -11,11 +11,11 @@
 ### 🚀 About me
 
 - 🔭 Currently working as a **Java Developer / Associate Consultant Intern at ADAPS**, building **GRC (Governance, Risk & Compliance)** solutions — including hands-on work with **SAI360** and platform migration workflows.
-- 🌱 Also building full-stack products end to end — most recently an **AI agent pipeline** integrated with local LLMs via **Ollama**.
+- 🌱 Also building full-stack products end to end.
 - 💻 Comfortable across the stack: **Java / Spring Boot** on the backend, **Vue.js / Tailwind CSS** on the frontend.
 - 📚 Practicing **Data Structures & Algorithms** consistently — see [Java-DSA](https://github.com/Dhananjaighawalkar31/Java-DSA).
 - ⚡ Outside of code: cricket, table tennis, fitness, and music.
-- 📫 Reach me at **dhananjaighawalkar68@gmail.com** or **www.linkedin.com/in/dhananjai-ghawalkar**.
+- 📫 Reach me at **dhananjaighawalkar68@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/dhananjai-ghawalkar)**.
 
 ---
 
@@ -29,21 +29,19 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama%20%2F%20LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
 ---
 
-### 🌟 Featured project — Business Assistant AI
+### 🌟 Featured project — LeafCode 🌿
 
-A full-stack, AI-powered conversational commerce platform for small businesses.
+A modern, animation-rich coding practice platform inspired by leading developer platforms — built for a smooth, engaging problem-solving experience.
 
-- **Backend:** Java 21 / Spring Boot 3.2, with a **9-step AI agent pipeline** orchestrating requests through **Ollama (qwen3)**
-- **Frontend:** Vue 3 + Tailwind CSS
-- **Ops:** Fully Dockerized, with complete documentation and a recruiter-facing demo script
-- **Scale:** ~189 files, ~18k lines of code
+- **Frontend:** Vue.js (Options API) + Tailwind CSS, bundled with Vite
+- **Backend:** Node.js / Express.js
+- **Highlights:** mission-based learning system, interactive progress dashboard, clean user profile system, fully responsive UI
 
-🔗 [github.com/Dhananjaighawalkar31/business-assistant-ai](https://github.com/Dhananjaighawalkar31/business-assistant-ai)
+🔗 [github.com/Dhananjaighawalkar31/LeafCode-Project](https://github.com/Dhananjaighawalkar31/LeafCode-Project)
 
 ---
 
@@ -52,8 +50,8 @@ A full-stack, AI-powered conversational commerce platform for small businesses.
 | Project | Description |
 |---|---|
 | [Java-DSA](https://github.com/Dhananjaighawalkar31/Java-DSA) | Ongoing data structures & algorithms practice in Java |
-| [LeafCode-Project](https://github.com/Dhananjaighawalkar31/LeafCode-Project) | Vue.js-based project |
 | [Java-Journey](https://github.com/Dhananjaighawalkar31/Java-Journey) | Core Java learning & practice repo |
+| [OptiMind](https://github.com/Dhananjaighawalkar31/OptiMind) | Built a full-stack SaaS application that analyzes cognitive load from decision patterns and delivers personalized recommendations. |
 
 ---
 
@@ -66,4 +64,4 @@ A full-stack, AI-powered conversational commerce platform for small businesses.
 
 ---
 
-<p align="center"><i>Open to opportunities — always happy to talk about Java, Spring Boot, or the AI agent pipeline in Business Assistant AI.</i></p>
+<p align="center"><i>Open to opportunities — always happy to talk about Java, Vue.js, or the design decisions behind LeafCode.</i></p>
