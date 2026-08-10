@@ -1,66 +1,129 @@
-<h1 align="center">Hi, I'm Dhananjai 👋</h1>
-<h3 align="center">Java Developer · Building AI products & GRC solutions</h3>
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:006400,50:39FF14,100:0FFF50&height=230&section=header&text=DHANANJAI%20GHAWALKAR&fontSize=54&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Building%20GRC%20%26%20Full-Stack%20Products&descAlignY=51)](https://capsule-render.vercel.app/api?type=waving&color=0:006400,50:39FF14,100:0FFF50&height=230&section=header&text=DHANANJAI%20GHAWALKAR&fontSize=54&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Building%20GRC%20%26%20Full-Stack%20Products&descAlignY=51)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Associate%20Consultant%20Intern-ADAPS-0A66C2?style=flat-square" alt="ADAPS"/>
-  <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-informational?style=flat-square" alt="Location"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GITHUB-Dhananjaighawalkar31-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhananjaighawalkar31)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Dhananjai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjai-ghawalkar)
+[![Email](https://img.shields.io/badge/EMAIL-dhananjaighawalkar68@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhananjaighawalkar68@gmail.com)
 
----
+[![](https://komarev.com/ghpvc/?username=Dhananjaighawalkar31&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge)](https://github.com/Dhananjaighawalkar31)
+[![](https://img.shields.io/github/followers/Dhananjaighawalkar31?label=FOLLOWERS&style=for-the-badge&color=0EA5E9)](https://github.com/Dhananjaighawalkar31)
 
-### 🚀 About me
+### 👨‍💻 Java Developer · Associate Consultant Intern @ **ADAPS**
 
-- 🔭 Currently working as a **Java Developer / Associate Consultant Intern at ADAPS**, building **GRC (Governance, Risk & Compliance)** solutions — including hands-on work with **SAI360** and platform migration workflows.
-- 🌱 Also building full-stack products end to end.
-- 💻 Comfortable across the stack: **Java / Spring Boot** on the backend, **Vue.js / Tailwind CSS** on the frontend.
-- 📚 Practicing **Data Structures & Algorithms** consistently — see [Java-DSA](https://github.com/Dhananjaighawalkar31/Java-DSA).
-- ⚡ Outside of code: cricket, table tennis, fitness, and music.
-- 📫 Reach me at **dhananjaighawalkar68@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/dhananjai-ghawalkar)**.
+🌍 Hyderabad, India • `17.3850° N, 78.4867° E`
+
+**Currently building**
+[Java-DSA](https://github.com/Dhananjaighawalkar31/Java-DSA) • 🌿 [LeafCode](https://github.com/Dhananjaighawalkar31/LeafCode-Project) • ⚡ [OptiMind](https://github.com/Dhananjaighawalkar31/OptiMind)
 
 ---
 
-### 🛠️ Tech stack
+## ⚡ About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+I build **GRC platforms** at work and **full-stack products** on the side, focused on:
 
----
+✅ **Governance, Risk & Compliance engineering** (SAI360, SOX 404 workflows, internal controls testing)
+✅ **Backend systems in Java / Spring Boot**
+✅ **Full-stack SaaS products** (Vue.js, Node/Express, PostgreSQL)
+✅ **DSA & problem-solving** — consistent daily practice, reverse-engineered into revision handbooks
 
-### 🌟 Featured project — LeafCode 🌿
-
-A modern, animation-rich coding practice platform inspired by leading developer platforms — built for a smooth, engaging problem-solving experience.
-
-- **Frontend:** Vue.js (Options API) + Tailwind CSS, bundled with Vite
-- **Backend:** Node.js / Express.js
-- **Highlights:** mission-based learning system, interactive progress dashboard, clean user profile system, fully responsive UI
-
-🔗 [github.com/Dhananjaighawalkar31/LeafCode-Project](https://github.com/Dhananjaighawalkar31/LeafCode-Project)
+> I don't just ship features — I document the "why" behind every solution, so the codebase teaches the next person (usually future me).
 
 ---
 
-### 📌 Other projects
+## 🏗️ What I Build
 
-| Project | Description |
-|---|---|
-| [Java-DSA](https://github.com/Dhananjaighawalkar31/Java-DSA) | Ongoing data structures & algorithms practice in Java |
-| [Java-Journey](https://github.com/Dhananjaighawalkar31/Java-Journey) | Core Java learning & practice repo |
-| [OptiMind](https://github.com/Dhananjaighawalkar31/OptiMind) | Built a full-stack SaaS application that analyzes cognitive load from decision patterns and delivers personalized recommendations. |
+- 🌿 **LeafCode** — Coding Practice Platform
+  ```
+  Stack:
+    Frontend: Vue.js (Options API) + Tailwind CSS, Vite
+    Backend:  Node.js / Express.js
+    Deploy:   Netlify (live demo)
+
+  Features:
+    - Mission-based learning system
+    - Interactive progress dashboard
+    - Clean, responsive user profile system
+
+  Status: 🟢 Live
+  ```
+  🔗 [github.com/Dhananjaighawalkar31/LeafCode-Project](https://github.com/Dhananjaighawalkar31/LeafCode-Project)
+
+- ⚡ **OptiMind** — Cognitive Load SaaS
+  ```
+  Stack:
+    Frontend: Vue 3
+    Backend:  Node.js / Express, JWT Auth
+    Database: PostgreSQL
+    APIs:     OpenWeather integration
+
+  Features:
+    - Cognitive Load Index engine analyzing decision patterns
+    - Personalized recommendation delivery
+    - Full auth & user session management
+
+  Status: 🟢 Full-stack SaaS
+  ```
+  🔗 [github.com/Dhananjaighawalkar31/OptiMind](https://github.com/Dhananjaighawalkar31/OptiMind)
 
 ---
 
-### 📊 GitHub stats
+## 🔥 Ongoing Focus: DSA Revision Handbooks
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhananjaighawalkar31&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhananjaighawalkar31&hide_border=true"/>
-</p>
+🎯 **Goal: a self-contained reference for every solved problem**
+
+Reverse-engineering my own [Java-DSA](https://github.com/Dhananjaighawalkar31/Java-DSA) code into structured handbooks — problem statements, dry runs, and visual pointer-movement explanations for trees, stacks, and linked lists.
+
+```
+Trees_DSA_Revision_Handbook.md   → 45 methods documented
+Stack_README.md                  → 12 files documented
+LinkedList_README.md             → in progress
+```
 
 ---
 
-<p align="center"><i>Open to opportunities — always happy to talk about Java, Vue.js, or the design decisions behind LeafCode.</i></p>
+## 🧠 Core Expertise
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ GRC ENGINEERING            BACKEND DEVELOPMENT           FULL-STACK          │
+│ ─────────────────          ───────────────────           ─────────────       │
+│ • SAI360 Platform           • Java / Spring Boot          • Vue.js 3          │
+│ • SOX 404 Compliance        • REST APIs                   • Node / Express    │
+│ • Internal Controls Testing • JWT Auth                    • Tailwind CSS      │
+│ • Platform Migrations       • PostgreSQL                  • Netlify Deploys   │
+│                                                                                │
+│ DATA STRUCTURES & ALGORITHMS                                                  │
+│ ───────────────────────────                                                   │
+│ • Trees • Stacks • Linked Lists • Recursion → Memoization • Java              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+
+[![](https://skillicons.dev/icons?i=java,spring,nodejs,express)](https://skillicons.dev)
+
+### Frontend
+
+[![](https://skillicons.dev/icons?i=vue,tailwind,javascript,html,css)](https://skillicons.dev)
+
+### Database / Tools
+
+[![](https://skillicons.dev/icons?i=postgres,git,github,vscode)](https://skillicons.dev)
+
+---
+
+## 📈 GitHub Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=Dhananjaighawalkar31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/Dhananjaighawalkar31)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjaighawalkar31&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/Dhananjaighawalkar31)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Dhananjaighawalkar31&theme=tokyonight&hide_border=true)](https://github.com/Dhananjaighawalkar31)
+
+---
+
+*Open to opportunities — always happy to talk about Java, GRC engineering, Vue.js, or the design decisions behind LeafCode and OptiMind.*
+
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:0FFF50,50:39FF14,100:006400&height=130&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=0:0FFF50,50:39FF14,100:006400&height=130&section=footer)
