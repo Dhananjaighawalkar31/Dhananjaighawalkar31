@@ -2,7 +2,7 @@
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:006400,50:22C55E,100:0FFF50&height=260&section=header&text=DHANANJAI%20GHAWALKAR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Associate%20Consultant%20%40%20ADAPS%20%7C%20Java%20Developer&descAlignY=48&descSize=18)](https://github.com/Dhananjaighawalkar31)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Associate+Consultant+%40+ADAPS;Java+Developer+%7C+GRC+%2F+SAI360;Building+LeafCode+%26+OptiMind;DSA+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Associate+Consultant+%40+ADAPS;Java+Developer+%7C+GRC+%2F+SAI360;Building+LeafCode+%26+TeachMe+AI;DSA+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -72,21 +72,21 @@ Deploy   : Netlify (live demo)
 </td>
 <td width="50%" valign="top">
 
-### ⚡ OptiMind
-**Cognitive Load SaaS**
+### 🤖 TeachMe AI
+**AI Agent Pipeline / Business Assistant**
 
 ```
-Frontend : Vue 3
-Backend  : Node/Express, JWT Auth
-Database : PostgreSQL
-API      : OpenWeather integration
+Backend  : Spring Boot 3.2, Java 21
+AI       : Ollama (qwen3) — 9-step agent pipeline
+Frontend : Vue 3 + Tailwind CSS
+Deploy   : Docker
 
-✓ Cognitive Load Index engine
-✓ Personalized recommendations
-✓ Full auth & session management
+✓ 9-step AI agent pipeline
+✓ ~183 backend test methods
+✓ 189 files, ~17.9k lines of code
 ```
 
-🟢 **Full-Stack SaaS** &nbsp;•&nbsp; [Repo →](https://github.com/Dhananjaighawalkar31/OptiMind)
+🟢 **Full-Stack AI** &nbsp;•&nbsp; [Repo →](https://github.com/Dhananjaighawalkar31/TeachMe-AI)
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ Reverse-engineering my own [Java-DSA](https://github.com/Dhananjaighawalkar31/Ja
 |---|---|
 | `Trees_DSA_Revision_Handbook.md` | ✅ 45 methods documented |
 | `Stack_README.md` | ✅ 12 files documented |
-| `LinkedList_README.md` | 🚧 In progress |
+| `LinkedList_README.md` | 🔄 Actively maintained |
 
 </div>
 
@@ -172,11 +172,9 @@ Reverse-engineering my own [Java-DSA](https://github.com/Dhananjaighawalkar31/Ja
 
 <img src="https://raw.githubusercontent.com/Dhananjaighawalkar31/Dhananjaighawalkar31/output/github-contribution-grid-snake.svg" width="80%" alt="snake animation"/>
 
-<sub>*Snake animation needs a one-time GitHub Action setup — see notes below.*</sub>
-
 <br/><br/>
 
-*Open to opportunities — always happy to talk about Java, GRC engineering, Vue.js, or the design decisions behind LeafCode and OptiMind.*
+*Open to opportunities — always happy to talk about Java, GRC engineering, Vue.js, or the design decisions behind LeafCode and TeachMe AI.*
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:0FFF50,50:22C55E,100:006400&height=150&section=footer)](https://github.com/Dhananjaighawalkar31)
 
