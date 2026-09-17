@@ -129,7 +129,7 @@ Reverse-engineering my own [Java-DSA](https://github.com/Dhananjaighawalkar31/Ja
 │ GRC ENGINEERING            BACKEND DEVELOPMENT           FULL-STACK          │
 │ ─────────────────          ───────────────────           ─────────────       │
 │ • SAI360 Platform           • Java / Spring Boot          • Vue.js 3          │
-│ • SOX 404 Compliance        • REST APIs                   • Node / Express    │
+│ • Compliance        • REST APIs                   • Node / Express    │
 │ • Internal Controls Testing • JWT Auth                    • Tailwind CSS      │
 │ • Platform Migrations       • PostgreSQL                  • Netlify Deploys   │
 │                                                                                │
