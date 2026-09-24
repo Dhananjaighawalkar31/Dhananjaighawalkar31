@@ -35,7 +35,7 @@ I build **GRC platforms** at work and **full-stack products** on the side.
 |:---:|:---|
 | 🔭 | **Associate Consultant** at **ADAPS**, building **GRC** solutions with **SAI360** |
 | 💻 | **Java Developer** by craft — building full-stack products outside of work |
-| ⚙️ | SOX 404 compliance workflows, internal controls testing, platform migrations |
+| ⚙️ | compliance workflows, internal controls testing, platform migrations |
 | 🌱 | Full-stack products: **Java / Spring Boot** backend, **Vue.js / Tailwind CSS** frontend |
 | 📚 | Consistent **DSA practice** in Java — see [Java-DSA](https://github.com/Dhananjaighawalkar31/Java-DSA) |
 | 🎯 | Outside of code: cricket, table tennis, fitness, music |
