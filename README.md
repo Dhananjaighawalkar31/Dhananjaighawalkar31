@@ -27,7 +27,7 @@
 
 </div>
 
-I build **GRC platforms** at work and **full-stack products** on the side.
+I build **GRC platforms** at work and **full-stack products** on the side..
 
 <div align="center">
 
