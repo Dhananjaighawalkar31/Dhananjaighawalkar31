@@ -161,7 +161,7 @@ Reverse-engineering my own [Java-DSA](https://github.com/Dhananjaighawalkar31/Ja
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhananjaighawalkar31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dhananjaighawalkar31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjaighawalkar31&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhananjaighawalkar31&theme=tokyonight&hide_border=true" width="70%" />
