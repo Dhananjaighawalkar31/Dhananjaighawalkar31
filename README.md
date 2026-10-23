@@ -27,7 +27,7 @@
 
 </div>
 
-I build **GRC platforms** at work and **full-stack products** on the side..
+I build **GRC platforms** at work and **full-stack products** on the side.
 
 <div align="center">
 
@@ -35,7 +35,7 @@ I build **GRC platforms** at work and **full-stack products** on the side..
 |:---:|:---|
 | 🔭 | **Associate Consultant** at **ADAPS**, building **GRC** solutions with **SAI360** |
 | 💻 | **Java Developer** by craft — building full-stack products outside of work |
-| ⚙️ | compliance workflows, internal controls testing, platform migrations |
+| ⚙️ | Compliance workflows, internal controls testing, platform migrations |
 | 🌱 | Full-stack products: **Java / Spring Boot** backend, **Vue.js / Tailwind CSS** frontend |
 | 📚 | Consistent **DSA practice** in Java — see [Java-DSA](https://github.com/Dhananjaighawalkar31/Java-DSA) |
 | 🎯 | Outside of code: cricket, table tennis, fitness, music |
@@ -43,6 +43,72 @@ I build **GRC platforms** at work and **full-stack products** on the side..
 </div>
 
 > I don't just ship features — I document the *why* behind every solution, so the codebase teaches the next person (usually future me).
+
+<br/>
+
+<div align="center">
+
+## 💼 What I Do at Work
+
+**SAI360** is a Governance, Risk & Compliance platform used by international clients, including insurance companies, to run their risk and compliance operations.<br/>
+It is a **user-defined platform**: every form, dashboard and solution has to be built by a developer.<br/>
+**That developer is me.**
+
+<br/>
+
+### 🛠️ From Raw Data to a Working Solution
+
+I receive **raw SQL data** and a **Business Requirement Document (BRD)**, then build the application end to end.
+
+<table>
+<tr>
+<td align="center" width="16%">📥<br/><b>Understand</b><br/><sub>Read the BRD and study the raw SQL data</sub></td>
+<td align="center" width="16%">🧹<br/><b>Clean</b><br/><sub>Excel, Python and SQL to prepare the data</sub></td>
+<td align="center" width="16%">🧱<br/><b>Model</b><br/><sub>Create the classes that define the structure</sub></td>
+<td align="center" width="16%">🗂️<br/><b>Load</b><br/><sub>Create instances (records) inside the classes</sub></td>
+<td align="center" width="16%">🔄<br/><b>Automate</b><br/><sub>Build assessments and workflows</sub></td>
+<td align="center" width="16%">📊<br/><b>Present</b><br/><sub>Vue.js dashboards, reports and forms</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Backend
+
+```
+Optimised SQL queries
+Data sources feeding the platform
+Data cleaning with Excel + Python
+Risk and control assessments
+Workflow configuration
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+```
+Enterprise-level Vue.js
+Dashboards and reports
+Forms and panels
+Bar graphs and charts
+Built for risk analyst experience
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+🎯 **The goal:** a risk analyst opens the solution and everything just makes sense, with fast data and a clean, intuitive interface.
+
+</div>
 
 <br/>
 
@@ -98,46 +164,18 @@ Deploy   : Docker
 
 <div align="center">
 
-## 🔥 Ongoing Focus — DSA Revision Handbooks
+## 📌 Featured Repos
 
-🎯 A self-contained reference for every problem I've solved
+<a href="https://github.com/Dhananjaighawalkar31/Java-DSA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhananjaighawalkar31&repo=Java-DSA&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+<a href="https://github.com/Dhananjaighawalkar31/CodeForces">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhananjaighawalkar31&repo=CodeForces&theme=tokyonight&hide_border=true" width="49%" />
+</a>
 
-</div>
-
-Reverse-engineering my own [Java-DSA](https://github.com/Dhananjaighawalkar31/Java-DSA) code into structured handbooks — problem statements, dry runs, and visual pointer-movement explanations for trees, stacks, and linked lists.
-
-<div align="center">
-
-| Handbook | Progress |
-|---|---|
-| `Trees_DSA_Revision_Handbook.md` | ✅ 45 methods documented |
-| `Stack_README.md` | ✅ 12 files documented |
-| `LinkedList_README.md` | 🔄 Actively maintained |
+<sub>DSA revision handbooks and dry runs in Java &nbsp;•&nbsp; Working through the CP-31 Codeforces sheet</sub>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-## 🧠 Core Expertise
-
-</div>
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ GRC ENGINEERING            BACKEND DEVELOPMENT           FULL-STACK          │
-│ ─────────────────          ───────────────────           ─────────────       │
-│ • SAI360 Platform           • Java / Spring Boot          • Vue.js 3          │
-│ • Compliance        • REST APIs                   • Node / Express    │
-│ • Internal Controls Testing • JWT Auth                    • Tailwind CSS      │
-│ • Platform Migrations       • PostgreSQL                  • Netlify Deploys   │
-│                                                                                │
-│ DATA STRUCTURES & ALGORITHMS                                                  │
-│ ───────────────────────────                                                   │
-│ • Trees • Stacks • Linked Lists • Recursion → Memoization • Java              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
 
 <br/>
 
