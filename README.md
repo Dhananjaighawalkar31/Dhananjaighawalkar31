@@ -10,6 +10,17 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Dhananjai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjai-ghawalkar)
 [![Email](https://img.shields.io/badge/EMAIL-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhananjaighawalkar68@gmail.com)
 
+<br/>
+
+<!-- DOWNLOAD RESUME BUTTON -->
+<a href="./Dhananjai_Ghawalkar_Resume.pdf">
+  <img src="./assets/resume-button.svg"
+       alt="Download Resume"
+       width="300"/>
+</a>
+
+<br/><br/>
+
 [![](https://komarev.com/ghpvc/?username=Dhananjaighawalkar31&label=PROFILE%20VIEWS&color=22C55E&style=for-the-badge)](https://github.com/Dhananjaighawalkar31)
 [![](https://img.shields.io/github/followers/Dhananjaighawalkar31?label=FOLLOWERS&style=for-the-badge&color=0EA5E9)](https://github.com/Dhananjaighawalkar31)
 
@@ -121,6 +132,7 @@ Built for risk analyst experience
 <td width="50%" valign="top">
 
 ### 🌿 LeafCode
+
 **Coding Practice Platform**
 
 ```
@@ -139,6 +151,7 @@ Deploy   : Netlify (live demo)
 <td width="50%" valign="top">
 
 ### 🤖 TeachMe AI
+
 **AI Agent Pipeline / Business Assistant**
 
 ```
